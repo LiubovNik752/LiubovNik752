@@ -21,3 +21,5 @@
 ### Работа с СУБД PostgreSQL
  * [Задачи в рамках учебного проекта Яндекс.Практикум](https://docs.google.com/document/d/1hoHWDAVsZKN9ki0gyrBS_ZbCGAe3lQQh6s6oK1BwM08/edit?usp=sharing)
 
+### Проектная работа по курсу "Web-технологии: начальный уровень"
+ * [Верстка одностраничного сайта по макету из Figma](https://codepen.io/LiubovNik/pen/GRxwywa)
